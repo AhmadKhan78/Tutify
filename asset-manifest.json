@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tutify/static/css/main.f855e6bc.css",
+    "main.js": "/Tutify/static/js/main.130d6082.js",
+    "static/js/453.873803a0.chunk.js": "/Tutify/static/js/453.873803a0.chunk.js",
+    "index.html": "/Tutify/index.html",
+    "main.f855e6bc.css.map": "/Tutify/static/css/main.f855e6bc.css.map",
+    "main.130d6082.js.map": "/Tutify/static/js/main.130d6082.js.map",
+    "453.873803a0.chunk.js.map": "/Tutify/static/js/453.873803a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.130d6082.js"
+  ]
+}
